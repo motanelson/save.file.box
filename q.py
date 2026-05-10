@@ -7,7 +7,7 @@ def qbit_change(qbit):
     return qbit     
 
 
-print("\033c\033[40;37m\nemulator of a qbit\n")
+print("\033c\033[40;37m\nemulator of 3 state fase\n")
 Qbit=0
 for a in range (10):
      print(Qbit)
